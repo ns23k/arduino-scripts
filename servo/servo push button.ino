@@ -1,3 +1,9 @@
+/* 
+**connections**
+- connect servo's signal pin to 9
+- connect button to pin 8
+*/
+
 #include <Servo.h>
 Servo servo;
 int servopin = 9;
